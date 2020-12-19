@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/hoijookim.github.io/movie_app_2020/static/css/main.07e50717.chunk.css",
+    "main.js": "/hoijookim.github.io/movie_app_2020/static/js/main.53bcb94e.chunk.js",
+    "main.js.map": "/hoijookim.github.io/movie_app_2020/static/js/main.53bcb94e.chunk.js.map",
+    "runtime-main.js": "/hoijookim.github.io/movie_app_2020/static/js/runtime-main.0915ce34.js",
+    "runtime-main.js.map": "/hoijookim.github.io/movie_app_2020/static/js/runtime-main.0915ce34.js.map",
+    "static/js/2.90c9b105.chunk.js": "/hoijookim.github.io/movie_app_2020/static/js/2.90c9b105.chunk.js",
+    "static/js/2.90c9b105.chunk.js.map": "/hoijookim.github.io/movie_app_2020/static/js/2.90c9b105.chunk.js.map",
+    "index.html": "/hoijookim.github.io/movie_app_2020/index.html",
+    "static/css/main.07e50717.chunk.css.map": "/hoijookim.github.io/movie_app_2020/static/css/main.07e50717.chunk.css.map",
+    "static/js/2.90c9b105.chunk.js.LICENSE.txt": "/hoijookim.github.io/movie_app_2020/static/js/2.90c9b105.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0915ce34.js",
+    "static/js/2.90c9b105.chunk.js",
+    "static/css/main.07e50717.chunk.css",
+    "static/js/main.53bcb94e.chunk.js"
+  ]
+}
